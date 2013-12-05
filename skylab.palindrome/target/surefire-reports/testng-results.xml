@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="94" started-at="2013-12-05T10:47:24Z" finished-at="2013-12-05T10:47:24Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="94" started-at="2013-12-05T10:47:24Z" finished-at="2013-12-05T10:47:24Z">
+      <class name="com.skylab.rest.service.PalindromeHelperTest">
+        <test-method status="PASS" signature="shouldCalulatePoints_BasedOnPalindromeString()" name="shouldCalulatePoints_BasedOnPalindromeString" duration-ms="16" started-at="2013-12-05T10:47:24Z" finished-at="2013-12-05T10:47:24Z">
+        </test-method>
+        <test-method status="PASS" signature="shouldNotRegisterExistingUser()" name="shouldNotRegisterExistingUser" duration-ms="0" started-at="2013-12-05T10:47:24Z" finished-at="2013-12-05T10:47:24Z">
+        </test-method>
+        <test-method status="PASS" signature="shouldReturnFalse_forEmptyPalindromeString()" name="shouldReturnFalse_forEmptyPalindromeString" duration-ms="16" started-at="2013-12-05T10:47:24Z" finished-at="2013-12-05T10:47:24Z">
+        </test-method>
+        <test-method status="PASS" signature="shouldRegisterNewUser_WithIntialScoreZero()" name="shouldRegisterNewUser_WithIntialScoreZero" duration-ms="0" started-at="2013-12-05T10:47:24Z" finished-at="2013-12-05T10:47:24Z">
+        </test-method>
+        <test-method status="PASS" signature="shouldReturnFalse_forInValidPalindromeString()" name="shouldReturnFalse_forInValidPalindromeString" duration-ms="0" started-at="2013-12-05T10:47:24Z" finished-at="2013-12-05T10:47:24Z">
+        </test-method>
+        <test-method status="PASS" signature="shouldReturnTrue_forValidPalindromeString()" name="shouldReturnTrue_forValidPalindromeString" duration-ms="0" started-at="2013-12-05T10:47:24Z" finished-at="2013-12-05T10:47:24Z">
+        </test-method>
+        <test-method status="PASS" signature="shouldReturnTrue_forValidPalindromeString_withSpaces()" name="shouldReturnTrue_forValidPalindromeString_withSpaces" duration-ms="0" started-at="2013-12-05T10:47:24Z" finished-at="2013-12-05T10:47:24Z">
+        </test-method>
+        <test-method status="PASS" signature="shouldReturnFalse_forNullPalindromeString()" name="shouldReturnFalse_forNullPalindromeString" duration-ms="0" started-at="2013-12-05T10:47:24Z" finished-at="2013-12-05T10:47:24Z">
+        </test-method>
+        <test-method status="PASS" signature="shouldReturnTrue_forValidPalindromeString_withSpecialChars2()" name="shouldReturnTrue_forValidPalindromeString_withSpecialChars2" duration-ms="0" started-at="2013-12-05T10:47:24Z" finished-at="2013-12-05T10:47:24Z">
+        </test-method>
+        <test-method status="PASS" signature="shouldReturnTrue_forValidPalindromeString_withSpecialChars()" name="shouldReturnTrue_forValidPalindromeString_withSpecialChars" duration-ms="0" started-at="2013-12-05T10:47:24Z" finished-at="2013-12-05T10:47:24Z">
+        </test-method>
+        <test-method status="PASS" signature="shouldReturnTrue_forValidPalindromeString_withNumbers()" name="shouldReturnTrue_forValidPalindromeString_withNumbers" duration-ms="0" started-at="2013-12-05T10:47:24Z" finished-at="2013-12-05T10:47:24Z">
+        </test-method>
+      </class>
+      <class name="com.skylab.rest.service.PalindromeServiceTest">
+        <test-method status="PASS" signature="testService()" name="testService" duration-ms="47" started-at="2013-12-05T10:47:24Z" finished-at="2013-12-05T10:47:24Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

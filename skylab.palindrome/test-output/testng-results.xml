@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="110" started-at="2013-12-05T05:04:48Z" finished-at="2013-12-05T05:04:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="110" started-at="2013-12-05T05:04:48Z" finished-at="2013-12-05T05:04:48Z">
+      <class name="com.skylab.rest.service.PalindromeServiceTest">
+        <test-method status="PASS" signature="testService()[pri:0, instance:com.skylab.rest.service.PalindromeServiceTest@1bed348]" name="testService" duration-ms="94" started-at="2013-12-05T10:34:48Z" finished-at="2013-12-05T10:34:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testService -->
+      </class> <!-- com.skylab.rest.service.PalindromeServiceTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

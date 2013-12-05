@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="ashireesh-laptop" name="com.skylab.rest.service.PalindromeHelperTest" tests="12" failures="0" timestamp="5 Dec 2013 05:17:24 GMT" time="0.094" errors="0">
+  <testcase name="shouldCalulatePoints_BasedOnPalindromeString" time="0.016" classname="com.skylab.rest.service.PalindromeHelperTest"/>
+  <testcase name="shouldNotRegisterExistingUser" time="0.0" classname="com.skylab.rest.service.PalindromeHelperTest"/>
+  <testcase name="shouldRegisterNewUser_WithIntialScoreZero" time="0.0" classname="com.skylab.rest.service.PalindromeHelperTest"/>
+  <testcase name="shouldReturnFalse_forEmptyPalindromeString" time="0.016" classname="com.skylab.rest.service.PalindromeHelperTest"/>
+  <testcase name="shouldReturnFalse_forInValidPalindromeString" time="0.0" classname="com.skylab.rest.service.PalindromeHelperTest"/>
+  <testcase name="shouldReturnFalse_forNullPalindromeString" time="0.0" classname="com.skylab.rest.service.PalindromeHelperTest"/>
+  <testcase name="shouldReturnTrue_forValidPalindromeString" time="0.0" classname="com.skylab.rest.service.PalindromeHelperTest"/>
+  <testcase name="shouldReturnTrue_forValidPalindromeString_withNumbers" time="0.0" classname="com.skylab.rest.service.PalindromeHelperTest"/>
+  <testcase name="shouldReturnTrue_forValidPalindromeString_withSpaces" time="0.0" classname="com.skylab.rest.service.PalindromeHelperTest"/>
+  <testcase name="shouldReturnTrue_forValidPalindromeString_withSpecialChars" time="0.0" classname="com.skylab.rest.service.PalindromeHelperTest"/>
+  <testcase name="shouldReturnTrue_forValidPalindromeString_withSpecialChars2" time="0.0" classname="com.skylab.rest.service.PalindromeHelperTest"/>
+  <testcase name="testService" time="0.047" classname="com.skylab.rest.service.PalindromeServiceTest"/>
+</testsuite>
